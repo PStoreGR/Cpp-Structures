@@ -232,9 +232,9 @@ void Heap::menuOfHeap(){
 	cout << "3. Display items of Heap" << endl;
 	cout << "4. Check if Heap is Empty" << endl;
 	cout << "5. Check if Heap is Full" << endl;
-	cout << "6.	Count Heap items" << endl;
-	cout << "7.	Replace item in Heap" << endl;
-	cout << "8.	Check item position" << endl;
+	cout << "6. Count Heap items" << endl;
+	cout << "7. Replace item in Heap" << endl;
+	cout << "8. Check item position" << endl;
 	cout << "============================================="<< endl;
 	cout << endl << "NOTE : Press 0 to exit!" << endl << endl << endl;
 }
