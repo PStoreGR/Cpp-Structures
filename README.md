@@ -1,4 +1,4 @@
 # Cpp-Structures
 
 ## Cpp
-### Cpp Data Stuctures
+### Cpp Data Structures
